@@ -16,7 +16,7 @@ https://codepen.io/bradtraversy/pen/vMGBjQ
     - Colocar imagen en background usando :before
     - En archivo menu.css se encuentra código del hamburger menu.
 
-Deployed at Netlify
-https://serene-torvalds-d95053.netlify.app/index.html
+Not Deployed at Netlify
+
 
 _Noviembre 2020 Omar Rosas_
